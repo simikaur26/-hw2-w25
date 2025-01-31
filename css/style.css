@@ -52,7 +52,7 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-width: 0 0 2px 5px;
+    border-width: 2px 5px 0 0;
 
 }
 .blue p {
@@ -78,7 +78,7 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 0 0 2px 5px;
+    border-width: 2px 5px 0 0;
 }
 
 footer {
